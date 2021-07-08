@@ -26,15 +26,7 @@ https://www.sciencedirect.com/science/article/pii/S2211379721002904
 
 ## Web Develpment
 ### **Languages and Frameworks**
-<img src = 'icons8-html-5.svg' height = 30px >  
-<img src = 'icons8-css3.svg' height = 30px > 
-<img src = 'javascript-seeklogo.com.svg' height = 28px >
-<img src = 'icons8-php-logo.svg' height = 30px >
-<img src = 'icons8-typescript.svg' height = 30px >
-<img src = 'react-seeklogo.com.svg' height = 30px >
-<img src = 'nodejs-seeklogo.com.svg' height = 30px >
-<img src = 'postgresql-seeklogo.com.svg' height = 30px >
-<img src = 'mysql-ar21.svg' height = 30px >
+<img src = 'icons8-html-5.svg' height = 30px >  <img src = 'icons8-css3.svg' height = 30px > <img src = 'javascript-seeklogo.com.svg' height = 28px > <img src = 'icons8-php-logo.svg' height = 30px > <img src = 'icons8-typescript.svg' height = 30px > <img src = 'react-seeklogo.com.svg' height = 30px > <img src = 'nodejs-seeklogo.com.svg' height = 30px > <img src = 'postgresql-seeklogo.com.svg' height = 30px > <img src = 'mysql-ar21.svg' height = 30px >
 <br>
 
 **Personal projects for learning**
@@ -47,9 +39,7 @@ https://www.sciencedirect.com/science/article/pii/S2211379721002904
 
 ## App Development
 ### **Languages and Frameworks**
-<img src = '1174949_js_react js_logo_react_react native_icon.svg' height = 30px >
-<img src = 'icons8-android-os.svg' height = 30px >
- <img src = 'java-ar21.svg' height = 30px >
+<img src = '1174949_js_react js_logo_react_react native_icon.svg' height = 30px > <img src = 'icons8-android-os.svg' height = 30px > <img src = 'java-ar21.svg' height = 30px >
 <br>
 **Personal projects for learning**
 
@@ -60,8 +50,7 @@ https://www.sciencedirect.com/science/article/pii/S2211379721002904
 
 ## Competitive Programming
 ### **Language**
-<img src = 'icons8-c-programming.svg' height = 30px >
-<img src = 'icons8-c++.svg' height = 30px >
+<img src = 'icons8-c-programming.svg' height = 30px > <img src = 'icons8-c++.svg' height = 30px >
 <br>
 
 Codeforces Max Rating : 1661
