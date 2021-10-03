@@ -1,4 +1,4 @@
-# Hello there, Assalamu Alaikum
+# Assalamu Alaikum
 
 I am a CSE undergraduate of Bangladesh University of Engineering and Techonology trying to explore various fields of computer science
 
