@@ -33,6 +33,7 @@ https://www.sciencedirect.com/science/article/pii/S2211379721002904
 
 | Project | Repo |
 | ----------- | ----------- |
+| Sequential circuit designer |  https://github.com/abdur-rafi/sequential-circuit-designer
 | Turtle Chat ( A real time chat application) | Front-End: https://github.com/abdur-rafi/Turtle-Chat-React <br> back-end : https://github.com/abdur-rafi/Turtle-chat-server | 
 | Skribbl Clone | Front-end : https://github.com/abdur-rafi/Skribbl-Clone <br> Back-end : https://github.com/abdur-rafi/skribbl-clone-server |
 | Web application for everybody assignments | https://github.com/abdur-rafi/web-application-for-everybody-coursera-specialization |
