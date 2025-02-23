@@ -1,6 +1,6 @@
 # Assalamu Alaikum
 
-I am a CSE undergraduate of Bangladesh University of Engineering and Techonology trying to explore various fields of computer science
+I am a CSE graduate of Bangladesh University of Engineering and Techonology trying to explore various fields of computer science
 
 Here are some of my takes in some fields.
 
